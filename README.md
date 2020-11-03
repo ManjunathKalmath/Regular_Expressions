@@ -54,4 +54,4 @@ SDFFX1, SDFFRX4, SDFFX16: all of these match the pattern then Regular Expression
 - \b ==> Match at a word boundary
 
 ## Acknowledgements
-- Anand Bariya, VP at Open-Silicon
+- [Anand Bariya](https://g.co/kgs/LC8wb7), VP at Open-Silicon
