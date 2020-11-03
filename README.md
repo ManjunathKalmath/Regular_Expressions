@@ -9,7 +9,7 @@ This Repository illustrates the Regular Expressions that are useful in reading t
 >Strings are sequence of ASCII Characters. Ex - SDFFX2, DFFRX1
 
 ## Use of Regular Expressions
-1 - used in Chip Design
+1 - Used in Chip Design
 - Input and Output files are often text files
 - Regular Expressions help to extract information from or modify text files
 
